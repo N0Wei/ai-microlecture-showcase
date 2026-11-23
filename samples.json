@@ -1,0 +1,31 @@
+{
+  "updated": "2026-11-23",
+  "samples": [
+    {
+      "title": "Python温度转换：从需求到代码",
+      "video": "temperature-conversion.mp4",
+      "preview": "temperature-conversion-preview.gif",
+      "course_revision": "c10d5b179e3c4e98",
+      "duration_seconds": 112.384,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frame_count": 3370,
+      "video_sha256": "0c83f464e3bdcbaba385012a3c4cbeaa08f3d48960e95dc423cf25da192849b9",
+      "preview_source_seconds": [18, 30]
+    },
+    {
+      "title": "Python变量交换：从顺序陷阱到同时赋值",
+      "video": "variable-swap.mp4",
+      "preview": "variable-swap-preview.gif",
+      "course_revision": "48ddcc8a3c92456c",
+      "duration_seconds": 89.813333,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frame_count": 2693,
+      "video_sha256": "a9fd28626f37047354e8c988eeb6457eb5606c5e8ccc2ea5b500e25babdf3a2c",
+      "preview_source_seconds": [43, 56]
+    }
+  ]
+}
